@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item component="ComponentInfo:com.telkomsel.telkomselcm/.MainActivity" drawable="mytelkomsel"/>
+    <item component="ComponentInfo:com.jtinova.slearn_app/.MainActivity" drawable="slearn"/>
+    <item component="ComponentInfo:com.tokopedia.tkpd/.MainActivity" drawable="tokopedia"/>
+    <item component="ComponentInfo:com.shinycore.picsaypro/.MainActivity" drawable="picsaypro"/>
+</resources>
